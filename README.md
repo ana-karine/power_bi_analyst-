@@ -17,9 +17,9 @@ Criar um relatório bem elaborado com base na sample financials do Power BI. Os 
 
 ### Página 1 do relatório
 
-<img src="/image/page1.png">
+<img src="/images/page1.png">
 
 ### Página 2 do relatório
 
-<img src="/image/page2.png">
+<img src="/images/page2.png">
 
